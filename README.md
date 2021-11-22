@@ -1,1 +1,11 @@
 # Dork_task
+
+NLP
+
+    AUTO-CORRECT MODEL
+    
+    RESUME SCREENING
+    
+DS
+
+    COVID-ANALYSIS
